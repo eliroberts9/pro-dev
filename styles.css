@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	font-family: Arial;
+}
+
+#reflections {
+	max-width: 60%;
+}
+
+#header {
+	margin: 0;
+	background: black;
+	color: white;
+	border-bottom: 2px solid white;
+}
