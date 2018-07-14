@@ -1,6 +1,51 @@
 body {
+	color: #12130F;
+	background: #EAE6E5;
 	margin: 0;
 	font-family: Arial;
+}
+
+h1 {
+	font-size: 8em;
+	color: #EAE6E5;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 30px 20px 0;
+	text-shadow: 2px 0px 3px rgba(100,100,100, 0.7);
+}
+
+h2 {
+	margin-top: 0;
+	color: #12130F;
+	padding: 0 20px 0;
+}
+
+h3 {
+	font-size: 2em;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	color: #8F8073;
+	padding: 10px 20px 0;
+}
+
+h4 {
+	padding-left: 20px;
+}
+
+p {
+	font-weight: 700;
+	margin-left: 20px;
+}
+
+a {
+	font-weight: 700;
+	margin-left: 20px;
+	text-decoration: none;
+	color: #12130F;
+}
+
+a:hover {
+	color: #5B9279;
 }
 
 #reflections {
@@ -8,8 +53,10 @@ body {
 }
 
 #header {
+	height: 220px;
 	margin: 0;
-	background: black;
-	color: white;
-	border-bottom: 2px solid white;
+	background: #5B9279;
+	background-size: cover;
+	background-position: center;
+	color: rgb(225,225,225);
 }
